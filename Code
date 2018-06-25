@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hot Fudge Pickles</title>
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background: url("http://www.powerpointthemes.net/wp-content/uploads/2015/07/brown-texture-background.jpg");
+      height: 100%;
+      position:fixed;
+      overflow: auto;
+      text-align: center;
+      font-family: "Comic Sans MS";
+      border:1px solid #4FAB39
+    }
+    
+    li a {
+      display: block;
+      width: 120px;
+      text-decoration: none;
+      color: white;
+      border-bottom: 1px solid #4FAB39;
+    }
+    
+    li a:hover {
+       background-color: #4FAB39;
+    }
+    
+  
+    
+    h1, h2, article {
+      color: black;
+      position: relative;
+      left: 130px;
+      max-width: 475px;
+      font-family: "trebuchet MS"
+    }
+      
+    h1 {
+      font-family: "comic sans MS";
+      text-align: center;
+      font-size: 43px;
+      PADDING: 10px;
+    }
+    h2 {
+      text-align: center;
+    }
+    
+    
+    body {
+      background: url("http://www.mactrast.com/wp-content/uploads/2013/04/Textured-green-boxes.jpg");
+    
+  
+  </style>
+</head>
+<body>
+  
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">What is HFP?</a></li>
+    <li><a href="#">Script</a></li>    
+    <li><a href="#">Score</a></li>
+    <li><a href="#">About the Author</a></li>
+  </ul>
+  <h1>HOT FUDGE PICKLES</h1>
+  <h2>Let's hear it for hot fudge pickles on a stick!</h2>
+  <article>
+  <h4>Hot Fudge Sundaes</h4>
+  <p>Heated-sauce sundaes are those in which the flavored sauce or syrup is heated before being poured over the ice cream, creating appealing differences in temperature as well as texture.The hot fudge sundae is a variation on the classic sundae and is often a creation of vanilla ice cream, sprinkles, hot chocolate sauce (hence the "hot fudge"), whipped cream, nuts, and a single bright-red maraschino cherry on top. A hot fudge sundae can be made with any flavor of ice cream. National Hot Fudge Sundae Day is celebrated on July 25. </p>
+  </article>
+  <article>
+  <h4>Pickles</h4>
+  <p>Brined pickles are prepared using the traditional process of natural fermentation in a brine which makes them grow sour. The brine concentration can vary between 20 to more than 40 grams of salt per litre of water (3.2–6.4 oz/imp gal or 2.7–5.3 oz/US gal). There is no vinegar used in the brine of naturally fermented pickled cucumbers.</p>
+<p>The fermentation process is entirely dependent on the naturally occurring Lactobacillus bacteria that normally cover the skin of a growing cucumber. Since these are routinely removed during commercial harvesting/packing processes, traditionally prepared pickles can only be made from freshly harvested cucumbers, unless the bacteria are artificially replaced.
+  </p>
+  </article>
+  <article>
+  <h4>Community Theatre</h4>
+  <p>Community theatre refers to theatrical performance made in relation to particular communities—its usage includes theatre made by, with, and for a community. It may refer to theatre that is made entirely by a community with no outside help, or to a collaboration between community members and professional theatre artists, or to performance made entirely by professionals that is addressed to a particular community. Community theatres range in size from small groups led by single individuals that perform in borrowed spaces to large permanent companies with well-equipped facilities of their own. Many community theatres are successful, non-profit businesses with a large active membership and, often, a full-time professional staff. Community theatre is often devised and may draw on popular theatrical forms, such as carnival, circus, and parades, as well as performance modes from commercial theatre.
+  </p>
+  </article>
+    <!-- body {
+      background: url("http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0422/9926/rrdill_pickles_shop_preview.png"); -->
+</body>
+</html>
